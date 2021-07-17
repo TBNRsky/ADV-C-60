@@ -1,0 +1,26 @@
+body{
+text-align: center;
+background-color: darkturquoise;
+}
+.line{
+background-color: midnightblue;
+height: 6px;
+width: 100px;
+margin:25px auto;
+}
+img{
+border-style:double;
+border-width: 3px;
+border-color: midnightblue;
+width: 300px;
+height: 300px;
+padding: 4px;
+}
+img:hover{
+transform: scale(0.9);
+}
+h1{
+font-family: 'Indie Flower', cursive;
+font-size: 50px;
+text-shadow: 4px 4px;
+}
